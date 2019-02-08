@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShortCalculator
+comment1.params=shortIn\ shortIn2
+comment1.target=short\ getSum(short,\ short)
+comment2.params=shortIn\ shortIn2
+comment2.target=short\ getDif(short,\ short)
+comment3.params=shortIn\ shortIn2
+comment3.target=short\ getPro(short,\ short)
+comment4.params=shortIn\ shortIn2
+comment4.target=short\ getQuo(short,\ short)
+comment5.params=shortIn\ shortIn2
+comment5.target=short\ getMod(short,\ short)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
